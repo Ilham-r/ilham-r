@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone! 👋<br><br>I’m currently working on: Enhancing my skills in frontend 💻<br>I’m looking to collaborate on: A new project focused that's build using nextjs/reactjs and nodejs 🤝<br>I’m currently learning: Advanced Next.js routing techniques. 🌱<br>Fun fact: Hearing someone laugh can trigger a response in your brain, making you more likely to laugh as well.💡<br>Feel free to reach out if you want to chat or collaborate!
+Hey everyone! 👋<br><br>I’m currently working on: Enhancing my skills in frontend 💻<br>I’m looking to collaborate on: A new project focused that's build using nextjs/reactjs and nodejs 🤝<br>I’m currently learning: Advanced Next.js routing techniques and more about backend. 🌱<br>Fun fact: Hearing someone laugh can trigger a response in your brain, making you more likely to laugh as well.💡<br>Feel free to reach out if you want to chat or collaborate!
 
 
 # 💻 Tech Stack:
